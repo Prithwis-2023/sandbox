@@ -1,5 +1,5 @@
 ports:
-  - port: 6080
+  - port: 8787
     onOpen: open-preview
 tasks:
   - command: make
